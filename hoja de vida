@@ -1,0 +1,87 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-5">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Vida </title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="header">
+
+    </header>
+
+    <nav class="navbar">
+        <a href=""> Perfil profesional </a>
+        <a href="">Experiencia laboral</a>
+        <a href="">Educación</a>
+        <a href="">Habilidades</a>
+    
+    </nav>
+
+    <section class="content abo">
+        <h2 class="title">Lisbeth Alexandra Lòpez Reyes</h2>
+        <p style="text-align:left; "></p>
+        <img src="" alt="">
+        <p>22 años</p>
+        <p>Tungurahua /Ambato /Ecuador 
+           <br>2931716 - 0995753338
+           <br>lisalexalr@gmail.com - lisbeth.lopez@unach.edu.ec
+ 
+        </p>
+    </section>
+
+    <section class="content saucers">
+        <h2 class="title"> Perfil profesional </h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, fugit!
+            <br>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad, magni.
+        </p>
+
+        <ul class="list-saucers">
+            <li>
+                <figure>
+                    <img src="img/ico1.png" alt="">
+                    <figcaption>lorem</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/ico2.png" alt="">
+                    <figcaption>lorem</figcaption>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <img src="img/ico1.png" alt="">
+                    <figcaption>lorem</figcaption>
+                </figure>
+            </li>
+        </ul>
+    </section>
+
+    <section class="content price">
+        <article class="contain">
+            <h2 class="title"> Experiencia laboral </h2>
+            <p>Actualmente me encuentr trabajando medio tiempo de auxiliar
+             contable en una farmacia homeopatica </p>
+            <a href="" class="btn">Contact</a>
+        </article>
+    </section>
+
+    <section class="content contact">
+        <h2 class="title"> Educación </h2>
+        <p>Estudie la escuela Josè Joaquìn Olmedo, posteriormente en la
+         Unidad Educativa Mario Cobo Barona y actualmente estoy cursando 
+         la carrera de pedagogia en informàtica en la Universidad Vacional de Chimborazo.</p>
+        <figure class="map"><img src="img/mapa.png" alt=""></figure>
+    </section>
+    <section class="content contact">
+        <h2 class="title">  Habilidades  </h2>
+        <p>Me gusta mucho bailar .</p>
+        <figure class="map"><img src="img/mapa.png" alt=""></figure>
+    </section>
+    
+</body>
+</html>
