@@ -1,16 +1,19 @@
 ---
 layout: page
-title: yo
+title: Mis datos personales
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Lisbeth Alexandra López Reyes.
+Mis pasatiempos favoritos son:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Leer
+- Cantar
+- Ayudar a los demás
 
-What else do you need?
+Pensamiento:
+Pienso que cada persona nació con un don y el mío es animar a las personas.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Me apasiona ir al Grupo Juvenil y estar relacionada con personas que tienen los mismos intereses que yo.

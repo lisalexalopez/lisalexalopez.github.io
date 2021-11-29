@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Lisbeth Alexandra López Reyes
+subtitle: Un poco de mi vida
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Nacida un 3 de Mayo de 1999 en Ambato-Ecuador. Mi madre Paulina Reyes y mi padre Carlos López. Tuve una niñez muy feliz en compañia de mi madre y mis abuelitos, recuerdo que mucho antes soliamos salir todos los niños del barrio a jugar por horas, sin duda fue la mejor épocas de mi vida. 
+
 
 **Here is some bold text**
 
