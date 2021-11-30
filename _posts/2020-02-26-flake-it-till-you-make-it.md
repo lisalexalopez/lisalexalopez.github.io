@@ -3,7 +3,7 @@ layout: post
 title: Mis estudios
 subtitle: Estudios y recuerdos
 cover-img: /assets/img/proto.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/proto.png
 share-img: /assets/img/proto.jpg
 
 ---
