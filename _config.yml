@@ -18,7 +18,7 @@ navbar-links:
   Sitios:
     - Youtube: "https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw"
     - Emprendimiento: "https://www.facebook.com/LisLopezReyes"
-  Author's home: "https://www.facebook.com/lopeslisbeth/"
+  Autógrafo: "https://view.genial.ly/5f051adbe1e0650d7fbafe79/presentation-yo"
 
 # --- Logo --- #
 
@@ -31,7 +31,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: /path/to/proto.jpg
 
 
 # --- Footer social media links --- #
