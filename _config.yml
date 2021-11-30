@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "lisbeth.lopez@unach.edu.ec"
-  facebook: "https://www.facebook.com/lopeslisbeth"
+  email: lisbeth.lopez@unach.edu.ec
+  facebook: https://www.facebook.com/lopeslisbeth
   github: https://lisalexalopez.github.io/
-  youtube: "https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw"
+  youtube: https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
