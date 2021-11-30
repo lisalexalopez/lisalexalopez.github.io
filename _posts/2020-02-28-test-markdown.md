@@ -26,11 +26,13 @@ Here's a useless table:
 
 Mi comida favorita el encebollado:
 
-![Ence](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/ence.jpg)
+share-img: /assets/img/ence.jpg
+
+//![Ence](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/ence.jpg)
 
 A mi no me gusta a mi me encanta
 
-![Encebollado](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/ence.jpg){: .mx-auto.d-block :}
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/ence.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
