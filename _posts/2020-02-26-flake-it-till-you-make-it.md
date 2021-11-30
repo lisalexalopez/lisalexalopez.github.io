@@ -1,11 +1,11 @@
 ---
-layout: Post
+layout: post
 title: Mis estudios
 subtitle: Estudios y recuerdos
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/proto.jpeg
-tags: [books, test]
+share-img: /assets/img/proto.jpg
+
 ---
 
 -Mis estudios primarios los realicé en la Escuela José Joquín Olmedo de la parroquia Ambatillo.
