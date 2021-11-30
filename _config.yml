@@ -14,11 +14,11 @@ author: Lisbeth López
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  yo: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  yo: "mis datos personales"
+  Sitios:
+    - Youtube: "https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw"
+    - Emprendimiento: "https://www.facebook.com/LisLopezReyes"
+  Author's home: "https://www.facebook.com/lopeslisbeth/"
 
 # --- Logo --- #
 
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: lisbeth.lopez@unach.edu.ec
-  facebook: https://www.facebook.com/lopeslisbeth
-  github: https://lisalexalopez.github.io/
-  youtube: https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw
+  email: "lisbeth.lopez@unach.edu.ec"
+  facebook: "https://www.facebook.com/lopeslisbeth"
+  github: "https://lisalexalopez.github.io/"
+  youtube: "https://www.youtube.com/channel/UCqcWjrAz2RTmq3Px2Mzyrdw"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
