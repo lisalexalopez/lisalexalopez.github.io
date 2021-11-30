@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mis datos personales
-subtitle: Why you'd want to go on a date with me
+subtitle: Mis pasatiempos
 ---
 
 Mi nombre es Lisbeth Alexandra López Reyes.
@@ -10,9 +10,12 @@ Mis pasatiempos favoritos son:
 - Leer
 - Cantar
 - Ayudar a los demás
+- Salir decompras
+- Apreciar la naturaleza
+- Salir con mi familia
 
 Pensamiento:
-Pienso que cada persona nació con un don y el mío es animar a las personas.
+Pienso que cada persona nació con un don y un proósito, el mío es animar a las personas.
 
 ### My story
 
