@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mis datos personales
-subtitle: Mis pasatiempos
+title: Mis pasatimepos
+subtitle: Aficciones
 ---
 
 Mi nombre es Lisbeth Alexandra López Reyes.
